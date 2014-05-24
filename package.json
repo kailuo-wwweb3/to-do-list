@@ -1,0 +1,9 @@
+{
+	"name": "ToDoList",
+	"version": "0.0.1",
+	"description": "Simple to-do-list list web app",
+	"dependencies": {
+		"socket.io": "~0.9.6",
+		"mime": "~1.2.7"
+	}
+}
